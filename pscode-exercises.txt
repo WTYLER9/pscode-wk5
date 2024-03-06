@@ -1,0 +1,42 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+generate random number x
+check if x%2 == 0, return even
+else return odd
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a)
+generate 5 random numbers and store in a list
+
+b)
+sum items of list and divide by length of list
+
+c)
+order list smallest to largest 
+return 1st element as minimum and last element as maximum
+
+d)
+print "The average is [value from step b]
+print "The minimum is [1st element from step c] and the maximum is [last element from step c]"
+
+-- END --
